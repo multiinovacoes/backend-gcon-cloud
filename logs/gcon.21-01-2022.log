@@ -1,0 +1,6 @@
+2022-01-21 14:32:50,045 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: Starting ServletInitializer using Java 14.0.1 on WELSSON-CASA with PID 4600 (C:\Desenvolvimento\workspace_spring\gcon\target\classes started by welss in C:\Desenvolvimento\workspace_spring\gcon)
+2022-01-21 14:32:50,052 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: The following profiles are active: oauth-security
+2022-01-21 14:33:08,358 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: Started ServletInitializer in 19.005 seconds (JVM running for 24.498)
+2022-01-21 20:56:53,690 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: Starting ServletInitializer using Java 14.0.1 on WELSSON-CASA with PID 15720 (C:\Desenvolvimento\workspace_spring\gcon\target\classes started by welss in C:\Desenvolvimento\workspace_spring\gcon)
+2022-01-21 20:57:04,895 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: The following profiles are active: oauth-security
+2022-01-21 20:57:24,996 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: Started ServletInitializer in 31.97 seconds (JVM running for 54.968)

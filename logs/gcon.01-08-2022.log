@@ -1,0 +1,2 @@
+2022-08-01 09:42:56,554 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: Starting ServletInitializer using Java 17.0.2 on DESKTOP-C9625DO with PID 4568 (D:\Desenvolvimento\workspace_spring\gcon\target\classes started by Welsson Cavalcante in D:\Desenvolvimento\workspace_spring\gcon)
+2022-08-01 09:42:56,557 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: The following profiles are active: oauth-security

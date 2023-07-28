@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+
+	<body style="font-family: Arial; font-size: 14px;">
+		<table style='width:730px; padding:10px; border: 1px solid #777; font-family:tahoma, verdana, arial, helvetica, sans-serif; font-size:10pt; border-bottom:2px solid #777; background-color:#F5F5F5'>
+		<tr>
+			<td><b><font color='#333333'>FIEPE | Redefinição se Senha</font></b></td>
+		</tr>
+		<tr>
+			<td></td>
+		</tr>
+	</table>
+   <table style="width:730px; font-family:tahoma, verdana, arial, helvetica, sans-serif; font-size:10pt; border:1px solid #777; padding:10px;"> 
+       <tr>
+           <td>
+               <font style="font-family:tahoma, verdana, arial, helvetica, sans-serif; font-size:10pt;text-align:justify;">
+               	  <span  th:utext="${despacho}"></span>
+               </font>
+               <a th:href="${url}">
+                   <h3>
+                       <font style="font-family:tahoma, verdana, arial, helvetica, sans-serif; font-size:10pt;">
+                           Clique Aqui para redefinir sua senha.
+                       </font>
+                   </h3>
+               </a>
+           </td>
+       </tr>
+   </table>
+	<table style='width:730px;padding:10px; border-left: 1px solid #777; border-right: 1px solid #777; font-family:tahoma, verdana, arial, helvetica, sans-serif; font-size:10pt;'>
+		<tr>
+			<td>Este link vai expirar em 24 hs.</td>
+		</tr>
+		<tr>
+			<td>Caso você não tenha solicitado a redefinição de senha, ignore essa mensagem. Sua senha está segura!.</td>
+		</tr>
+	</table>   
+   <br>
+	<table style="width: 730px; font-family:tahoma, verdana, arial, helvetica, sans-serif; font-size:8pt;">
+		<tr>
+			<td>Mensagem automática</td>
+		</tr>
+		<tr>
+			<td>Favor não responder este e-mail.</td>
+		</tr>
+		<tr>
+			<td>
+				<div align="justify">
+					Esta mensagem, incluindo quaisquer anexos, é de acesso restrito e destina-se, exclusivamente, 
+					à pessoa ou entidade para a qual foi endereçada. Se você a recebeu indevidamente, por favor, 
+					elimine-a e informe o equívoco ao emitente imediatamente. O uso não autorizado do conteúdo da mensagem ou anexos 
+					é proibido e sujeita o infrator às penalidades cabíveis.
+	            </div>			
+			</td>
+		</tr>
+	</table>
+</body>
+</html>

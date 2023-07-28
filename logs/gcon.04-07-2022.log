@@ -1,0 +1,8 @@
+2022-07-04 09:48:41,866 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: Starting ServletInitializer using Java 17.0.2 on DESKTOP-C9625DO with PID 20156 (D:\Desenvolvimento\workspace_spring\gcon\target\classes started by Welsson Cavalcante in D:\Desenvolvimento\workspace_spring\gcon)
+2022-07-04 09:48:41,870 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: The following profiles are active: oauth-security
+2022-07-04 09:49:03,782 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: Started ServletInitializer in 22.552 seconds (JVM running for 28.584)
+2022-07-04 09:59:29,412 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: Starting ServletInitializer using Java 17.0.2 on DESKTOP-C9625DO with PID 20156 (D:\Desenvolvimento\workspace_spring\gcon\target\classes started by Welsson Cavalcante in D:\Desenvolvimento\workspace_spring\gcon)
+2022-07-04 09:59:29,412 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: The following profiles are active: oauth-security
+2022-07-04 10:32:50,801 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: Starting ServletInitializer using Java 17.0.2 on DESKTOP-C9625DO with PID 29768 (D:\Desenvolvimento\workspace_spring\gcon\target\classes started by Welsson Cavalcante in D:\Desenvolvimento\workspace_spring\gcon)
+2022-07-04 10:32:50,824 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: The following profiles are active: oauth-security
+2022-07-04 10:33:03,845 gcon INFO  [restartedMain] br.com.multiinovacoes.gcon.ServletInitializer: Started ServletInitializer in 13.846 seconds (JVM running for 20.419)
